@@ -1,10 +1,10 @@
 
 
 
-### 👋I'm a hyunjung from South Korea.
+### 👋 I'm a hyunjung from South Korea.
 
 
-### 🛠Tools
+### 🛠 Tools
 
   ### 💽 Databases
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
