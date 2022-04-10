@@ -1,7 +1,7 @@
 
 
 
-### 👋 I'm a hyunjung from South Korea.
+### 👋 I'm a hyunjung
 
 
 ### 🛠 Tools
