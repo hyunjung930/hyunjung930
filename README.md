@@ -1,7 +1,7 @@
 
 
 
-### 👋 I'm a hyunjung
+### 👋 I'm hyunjung
 
 
 ### 🛠 Tools
