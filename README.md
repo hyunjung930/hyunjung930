@@ -4,7 +4,7 @@
 ###  HEllO👋 I'm hyunjung
 
 
-### 🛠 Tools
+### 🛠 Tools (이런걸 주로 써왔어요!)
 
   ### 💽 Databases
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -28,7 +28,8 @@
   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-
+  ### Servers
+  ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
 
 
