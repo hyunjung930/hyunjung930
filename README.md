@@ -1,7 +1,7 @@
 
 
 
-###  HEllO👋 I'm hyunjung
+###  HELLO👋 I'm hyunjung
 
 
 ### 🛠 Tools (주로 써왔어요!)
