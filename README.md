@@ -4,7 +4,7 @@
 ###  HEllO👋 I'm hyunjung
 
 
-### 🛠 Tools (이런걸 주로 써왔어요!)
+### 🛠 Tools (주로 써왔어요!)
 
   ### 💽 Databases
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
