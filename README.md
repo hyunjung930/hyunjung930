@@ -8,8 +8,7 @@
 
   ### 💽 Databases
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  <img src="https://img.shields.io/badge/oracle-#F80000?style=for-the-badge&logo=oracle&logoColor=white">
-
+ 
   ### 📚 Frameworks, Platforms and Libraries
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
