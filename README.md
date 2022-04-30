@@ -3,8 +3,10 @@
 
 ###  HELLO👋 I'm hyunjung
   
-  📩 Contact: choihj930@gmail.com
-  📝 티스토리:https://jung940.tistory.com
+ >> 📩 Contact: choihj930@gmail.com
+ >> 📝 티스토리:https://jung940.tistory.com
+  
+------------
     
 ### 🛠 Tools (주로 써왔어요!)
 
@@ -22,7 +24,6 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
 
   ### 🖥 IDEs/Editors
   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
