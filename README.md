@@ -2,8 +2,8 @@
 
 
 ###  HELLO👋 I'm hyunjung
-
-
+    티스토리:https://jung940.tistory.com
+    
 ### 🛠 Tools (주로 써왔어요!)
 
   ### 💽 Databases
@@ -14,8 +14,6 @@
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-
 
   #### 🗣 Languages
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
