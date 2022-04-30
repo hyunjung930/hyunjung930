@@ -32,7 +32,7 @@
   ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
   ### 👩‍💻Version Control
-  
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 <!-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
