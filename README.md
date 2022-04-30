@@ -2,6 +2,9 @@
 
 
 ###  HELLO👋 I'm hyunjung
+  
+ ###![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) choihj930@gmail.com
+
     티스토리:https://jung940.tistory.com
     
 ### 🛠 Tools (주로 써왔어요!)
