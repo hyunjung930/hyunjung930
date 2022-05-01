@@ -4,7 +4,7 @@
 ###  HELLO👋 I'm hyunjung
   
     📩 Contact: choihj930@gmail.com
-    📝 티스토리:https://jung940.tistory.com
+    📝 Tistory:https://jung940.tistory.com
   
 ------------
     
