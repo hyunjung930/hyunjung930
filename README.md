@@ -3,7 +3,7 @@
 
 ###  HELLO👋 I'm hyunjung
   
-    📩 Contact: choihj930@gmail.com
+    📩 Contact: hj.choi930@gmail.com
     📝 Tistory:https://jung940.tistory.com
   
 ------------
